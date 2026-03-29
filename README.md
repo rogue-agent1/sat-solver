@@ -1,10 +1,11 @@
-# Sat Solver
+# sat_solver
 
-A zero-dependency Python CLI tool.
+sat_solver: DPLL SAT solver for Boolean satisfiability.
+
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python sat_solver.py test
-python sat_solver.py demo
+python3 sat_solver.py test
 ```
